@@ -2,7 +2,7 @@ package Challenges;
 
 import java.util.Scanner;                       //Utility for scanner
 
-public class Activity3_LLAGAS {
+public class Activity3_Llagas {
     public static void main(String[] args){
 
         Scanner sc = new Scanner(System.in);
