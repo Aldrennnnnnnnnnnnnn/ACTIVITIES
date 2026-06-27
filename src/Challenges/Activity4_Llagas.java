@@ -3,7 +3,7 @@ package Challenges;
 import java.util.Scanner; //Utility for scanner or user input
 import java.util.Random;  //Utility to generate random number
 
-public class ACTIVITY4_LLAGAS {
+public class Activity4_Llagas{
     public static void main(String[] args){
 
         Scanner scanner = new Scanner(System.in);
